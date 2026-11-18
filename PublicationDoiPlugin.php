@@ -81,14 +81,13 @@ class PublicationDoiPlugin extends GenericPlugin
 
     /**
      * DOI types of the publication and its related objects that are enabled in
-     * the context. Empty when the tab should not be shown: DOIs disabled or no
-     * registration agency selected.
+     * the context. Empty when DOIs are disabled.
      *
      * @return string[]
      */
     public static function getEnabledTypes(Context $context): array
     {
-        if (!$context->areDoisEnabled() || $context->getConfiguredDoiAgency() === null) {
+        if (!$context->areDoisEnabled()) {
             return [];
         }
 
