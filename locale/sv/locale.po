@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.publicationDoi.displayName"
+msgstr "Publikationens DOI:er"
+
+msgid "plugins.generic.publicationDoi.description"
+msgstr "Lägger till fliken DOI:er i publikationsvyn som visar DOI:erna för publikationen och tillhörande objekt."
+
+msgid "plugins.generic.publicationDoi.tab"
+msgstr "DOI:er"
+
+msgid "plugins.generic.publicationDoi.item"
+msgstr "Objekt"
+
+msgid "plugins.generic.publicationDoi.notAssigned"
+msgstr "Inte tilldelad"
+
+msgid "plugins.generic.publicationDoi.noItems"
+msgstr "Den här versionen har inga objekt som kan få en DOI."
+
+msgid "plugins.generic.publicationDoi.type.publication"
+msgstr "Publikation"
+
+msgid "plugins.generic.publicationDoi.type.representation"
+msgstr "Publiceringsversion"
+
+msgid "plugins.generic.publicationDoi.type.chapter"
+msgstr "Kapitel"
+
+msgid "plugins.generic.publicationDoi.type.file"
+msgstr "Fil"
+
+msgid "plugins.generic.publicationDoi.type.publicationFormat"
+msgstr "Publikationsformat"
